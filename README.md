@@ -2,8 +2,6 @@
 
 <h3 align="left">Junior in Data Science and AI @ HUST</h3>
 
-<h3 align="left">AI Engineer @ ViettelTelecom </h3>
-
 📫 How to reach me **tuanhai1304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
